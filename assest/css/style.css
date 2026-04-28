@@ -329,24 +329,107 @@ fieldset {
   margin-top: 30px;
 }
 /* ====================================== */
-.suxrob {
-    width: 1440px;
-    height: 422px;
-    margin: auto;
-    margin-top: 270px;
-    border: 1px solid black;
+footer {
+    width: 100%;
+    height: 400px;
     background-color: aqua;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    /* transform: translateY(-200px); */
+
 }
-.suxrob1 {
-    width: 120px;
-    height: 80px;
-    border: 1px solid black;
-    margin-top: 300px;
+
+footer .box5 {
+    width: 1232px;
+    height: 305px;
+    margin: auto;
+    border-radius: 20px;
+    padding-left: 15px;
+    background-color: #CDEAE1;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-100px);
+
+
 }
-.suxrobbek {
+
+footer .box5 .div {
+    width: 593px;
+    height: 305px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+footer .box5 .div .h6 {
+    width: 364px;
+    height: 108px;
+    font-size: 60px;
+}
+
+footer .box5 .div p {
+    color: gray;
+    font-weight: 900;
+}
+
+footer .box5 .div small {
+    color: gray;
+}
+
+footer .box5 .button input {
+    width: 473px;
+    height: 56px;
+    padding-left: 20px;
+    border-radius: 4px;
+    border: none;
+}
+
+footer .box5 .button button {
+    width: 104px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    background-color: black;
+    color: snow;
+}
+
+footer .box5 .img {
+    width: 400px;
+    height: 305px;
+}
+
+footer .box5 .img img {
+    width: 400px;
+    height: 305px;
+}
+
+/* =====footre======== */
+/* =================== */
+
+footer .box6 {
     width: 1232px;
     height: 140px;
-    margin-top: 270px;
-    border: 1px solid black;
+    margin: auto;
+    display: flex;
+    margin-top: 250px;
+    justify-content: space-around;
+    transform: translateY(-300px);
+
+
 }
-.su
+
+footer .box6 .div1 {
+    width: 175px;
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+footer .box6 div small {
+    display: block;
+    color: grey;
+}
+
