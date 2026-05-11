@@ -280,7 +280,6 @@ form button {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  
 }
 .filter-cards button {
   width: 840px;
@@ -294,11 +293,11 @@ form button {
   height: 32px;
   color: #000;
   background-color: azure;
-  border: 1px solid #8DD3BB;
+  border: 1px solid #8dd3bb;
 }
 .borya1 {
   font-size: 30px;
-  color: #FF8682;
+  color: #ff8682;
   margin-top: 3px;
   margin-left: 20px;
   font-weight: 900;
@@ -306,7 +305,6 @@ form button {
 .text1 {
   width: 84px;
   height: 44px;
-  
 }
 .Bosh {
   display: flex;
@@ -327,7 +325,6 @@ form button {
   display: flex;
   gap: 60px;
   margin-top: 10px;
-  
 }
 .chicha {
   width: 64px;
@@ -342,8 +339,6 @@ form button {
   width: 73px;
   height: 17px;
   color: gray;
-  
-
 }
 .ti {
   margin-top: 2px;
@@ -351,36 +346,34 @@ form button {
   height: 20px;
 }
 .hamasi {
-
 }
 .uch {
-    width: 600px;
-    height: 48px;
-    display: flex;
-    justify-content: space-between;
+  width: 600px;
+  height: 48px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .uch .yurak {
-    width: 48px;
-    height: 48px;
-    border: 1px solid aqua;
-    border-radius: 4px;
-    font-size: 25px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 15px;
-
+  width: 48px;
+  height: 48px;
+  border: 1px solid aqua;
+  border-radius: 4px;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
 }
 
 .uch .buttom {
-    width: 536px;
-    height: 48px;
-    border-radius: 4px;
-    background-color: #8DD3BB;
-    font-size: 20px;
-    color: #000;
-    border: none;
-    margin-top: 15px;
+  width: 536px;
+  height: 48px;
+  border-radius: 4px;
+  background-color: #8dd3bb;
+  font-size: 20px;
+  color: #000;
+  border: none;
+  margin-top: 15px;
 }
 
