@@ -163,38 +163,152 @@ form button {
 
 /* filters */
 .filters {
-  width: 1232px;
-  height: 1428px;
-  margin: auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: start;
+    width: 1232px;
+    height: 1428px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
 }
+
 .filter {
-  width: 343px;
-  height: 880px;
-  border: 1px solid magenta;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
+    width: 343px;
+    height: 880px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
-.filter ul li {
-  list-style: none;
+
+/* =========filter==== */
+.filter .price {
+    width: 343px;
+    height: 87px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
-.filter details {
-  width: 100%;
-  height: 87px;
-  border-bottom: 1px solid rgb(190, 190, 190);
+
+.filter .price .price-1 {
+    width: 343px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-.filter details ul {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+
+.filter .price .price-1 div p {
+    font-size: 20px;
 }
-.filter details input {
-  width: 100%;
+
+.price .price-2 {
+    width: 343px;
+    height: 47px;
 }
+
+.price .price-2 .bir {
+    width: 343px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.price .price-2 .bir input {
+    width: 340px;
+    height: 5px;
+}
+
+.price .price-2 .ikki {
+    width: 340px;
+    height: 15px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+/* ======chiziq=== */
+.chiziq {
+    width: 343px;
+    height: 0.3px;
+    border: 0.3px solid #112211;
+}
+
+/* =======rating== */
+.rating {
+    width: 343px;
+    height: 72px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.rating .rating-1 {
+    width: 343px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rating .rating-1 div p {
+    font-size: 20px;
+}
+
+.rating .rating-2 {
+    width: 343px;
+    height: 32px;
+    display: flex;
+    gap: 15px;
+}
+
+.rating .rating-2 button {
+    width: 40px;
+    height: 31px;
+    border-radius: 4px;
+    background-color: white;
+    border: 1px solid #8DD3BB;
+}
+
+/* ======airlines=== */
+.airlines {
+    width: 343px;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.airlines .airlines-1 {
+    width: 343px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.airlines .airlines-1 p {
+    font-size: 20px;
+}
+
+.airlines .airlines-2 {
+    width: 343px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.airlines .airlines-2 div {
+    width: 343px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.airlines .airlines-2 div input {
+    width: 24px;
+    height: 22px;
+    margin-right: 10px;
+}
+
+
 
 .line {
   width: 0.5px;
@@ -376,4 +490,106 @@ form button {
   border: none;
   margin-top: 15px;
 }
+/* ============================================== */
+  footer {
+    width: 100%;
+    height: 400px;
+    background-color: aqua;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
 
+}
+
+footer .box5 {
+    width: 1232px;
+    height: 305px;
+    margin: auto;
+    border-radius: 20px;
+    padding-left: 15px;
+    background-color: #CDEAE1;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-100px);
+
+
+}
+
+footer .box5 .div {
+    width: 593px;
+    height: 305px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+footer .box5 .div .h6 {
+    width: 364px;
+    height: 108px;
+    font-size: 60px;
+}
+
+footer .box5 .div p {
+    color: gray;
+    font-weight: 900;
+}
+
+footer .box5 .div small {
+    color: gray;
+}
+
+footer .box5 .button input {
+    width: 473px;
+    height: 56px;
+    padding-left: 20px;
+    border-radius: 4px;
+    border: none;
+}
+
+footer .box5 .button button {
+    width: 104px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    background-color: black;
+    color: snow;
+}
+
+footer .box5 .img {
+    width: 400px;
+    height: 305px;
+}
+
+footer .box5 .img img {
+    width: 400px;
+    height: 305px;
+}
+
+/* =====footre======== */
+/* =================== */
+
+footer .box6 {
+    width: 1232px;
+    height: 140px;
+    margin: auto;
+    display: flex;
+    margin-top: 250px;
+    justify-content: space-around;
+    transform: translateY(-300px);
+
+
+}
+
+footer .box6 .div1 {
+    width: 175px;
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+footer .box6 div small {
+    display: block;
+    color: grey;
+}
