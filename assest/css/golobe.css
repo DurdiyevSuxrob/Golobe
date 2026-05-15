@@ -1,0 +1,375 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  transition: 0.5s;
+  text-decoration: none;
+}
+nav {
+  width: 100%;
+  background-color: rgb(255, 255, 255, 0.8);
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.07);
+  position: sticky;
+  top: 0;
+}
+header {
+  max-width: 1440px;
+  height: 87px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+header ul li {
+  list-style: none;
+}
+header a {
+  color: #000;
+  font-weight: bold;
+}
+.header-right img {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+}
+.logo a {
+  font-size: 26px;
+  color: #8dd3bb;
+}
+.header-left ul {
+  width: 230px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.header-right ul {
+  width: 260px;
+  height: 45px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-right ul li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* ================1-bolim==================== */
+.div1 {
+  width: 421px;
+  height: 17px;
+  display: flex;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+.o {
+  color: #ff8682;
+}
+.oi {
+  color: gray;
+}
+.div2 {
+  width: 374px;
+  height: 104px;
+}
+.w {
+  width: 40px;
+  height: 32px;
+  border: 1px solid #8dd3bb;
+  border-radius: 7px;
+}
+.ww {
+  display: flex;
+  margin-top: 6px;
+}
+.Bosh {
+  width: 1232px;
+  height: 104px;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.oi i {
+  color: #000;
+}
+.son {
+  width: 276px;
+  height: 103px;
+}
+.yurakli {
+  width: 48px;
+  height: 48px;
+  border: 1px solid #8dd3bb;
+  border-radius: 5px;
+}
+.son1 {
+  width: 276px;
+  height: 48px;
+  display: flex;
+  justify-content: space-between;
+}
+.hlar {
+  width: 83px;
+  height: 39px;
+  margin-left: 212px;
+  font-size: 30px;
+  color: #ff8682;
+}
+.bn {
+  width: 150px;
+  height: 48px;
+  background-color: #8dd3bb;
+  border-radius: 5px;
+}
+/* ==============2-bolim======================= */
+.main img {
+  width: 1232px;
+  height: 395px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  border-radius: 15px;
+}
+.main {
+  width: 1232px;
+  height: 395px;
+  margin: auto;
+  margin-top: 35px;
+}
+.main3 {
+  width: 380px;
+  height: 24px;
+}
+.main1 {
+  width: 1232px;
+  height: 30px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 50px;
+}
+.imglar {
+  width: 120px;
+  height: 120px;
+}
+.rasmlar {
+  width: 1232px;
+  height: 120px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 30px;
+}
+.rasmlar img {
+  border-radius: 12px;
+}
+/* ================3-bolim=================== */
+.box {
+  width: 1232px;
+  height: 102px;
+  border: 1px solid white;
+  margin: auto;
+  margin-top: 50px;
+  background-color: #8DD3BB99;
+}
+.soat {
+  width: 1200px;
+  height: 24px;
+  
+  margin-top: 30px;
+  display: flex;
+  gap: 20px;
+}
+.box h2 {
+  margin-top: 10px;
+}
+.box p {
+  color: #302e2e;
+  
+}
+.box i {
+  color: #000;
+}
+.box1 {
+  width: 1232px;
+  height: 287px;
+  margin: auto;
+  margin-top: 20px;
+}
+.text {
+  width: 1184px;
+  height: 25px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.humo img {
+  width: 64px;
+  height: 44px;
+}
+.humo {
+  width: 262px;
+  height: 86px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.text1 {
+  width: 1185px;
+  height: 86px;
+  margin: auto;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.uuu {
+  width: 110px;
+  height: 54px;
+  box-shadow: 0px 0px 2px rgb(0, 0, 0.8);
+  text-align: center;
+  
+}
+.humo1 {
+  width: 64px;
+  height: 44px;
+}
+.ilar {
+  width: 360px;
+  height: 30px;
+  margin-top: 25px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.text2 {
+  width: 1185px;
+  height: 48px;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.text3 {
+  width: 240px;
+  height: 29px;
+  display: flex;
+  gap: 10px
+  ;
+  align-items: center;
+}
+.text4 {
+  width: 168px;
+  height: 29px;
+  text-align: center;
+}
+.text4 i {
+  margin-top: 5px;
+}
+/* =================================== */
+  footer {
+    width: 100%;
+    height: 500px;
+    background-color: aqua;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+footer .box5 {
+    width: 1232px;
+    height: 305px;
+    margin: auto;
+    border-radius: 20px;
+    padding-left: 15px;
+    background-color: #CDEAE1;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-100px);
+
+
+}
+
+footer .box5 .div {
+    width: 593px;
+    height: 305px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
+
+footer .box5 .div .h6 {
+    width: 364px;
+    height: 108px;
+    font-size: 60px;
+}
+
+footer .box5 .div p {
+    color: gray;
+    font-weight: 900;
+}
+
+footer .box5 .div small {
+    color: gray;
+}
+
+footer .box5 .button input {
+    width: 473px;
+    height: 56px;
+    padding-left: 20px;
+    border-radius: 4px;
+    border: none;
+}
+
+footer .box5 .button button {
+    width: 104px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    background-color: black;
+    color: snow;
+}
+
+footer .box5 .img {
+    width: 400px;
+    height: 305px;
+}
+
+footer .box5 .img img {
+    width: 400px;
+    height: 305px;
+}
+
+/* =====footre======== */
+/* =================== */
+
+footer .box6 {
+    width: 1232px;
+    height: 140px;
+    margin: auto;
+    display: flex;
+    margin-top: 250px;
+    justify-content: space-around;
+    transform: translateY(-300px);
+
+
+}
+
+footer .box6 .div1 {
+    width: 175px;
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+footer .box6 div small {
+    display: block;
+    color: grey;
+} 
+
+
