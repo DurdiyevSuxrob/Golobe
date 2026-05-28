@@ -351,6 +351,133 @@ header a {
   display: flex;
   justify-content: space-between;
 }
+.frame .frame2 {
+    width: 450px;
+    height: 469px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.frame .frame2 .economy {
+    width: 367px;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.frame .frame2 .economy .img {
+    width: 120px;
+    height: 120px;
+}
+
+.frame .frame2 .economy .img img {
+    width: 120px;
+    height: 120px;
+    border-radius: 12px;
+}
+
+.frame .frame2 .economy .teks {
+    width: 223px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.frame2 .economy .teks div p {
+    color: gray;
+    font-size: 18px;
+}
+
+.frame2 .economy .teks div h4 {
+    font-size: 20px;
+}
+
+.frame2 .economy .teks div button {
+    width: 40px;
+    height: 32px;
+    border: 1px solid #8DD3BB;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.frame2 .chiziq {
+    width: 402px;
+    height: 0.5px;
+    border: 0.5px solid gray;
+}
+
+/* =========your=== */
+.frame2 .your {
+    width: 296px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.frame2 .your p {
+    font-size: 20px;
+}
+
+/* ==========Details======= */
+.frame .frame2 .details {
+    width: 402px;
+    height: 164px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.frame2 .details .p p {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.frame2 .details div {
+    width: 402px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.frame2 .details div p {
+    color: #112211;
+    font-size: 20px;
+}
+
+.frame2 .details div span {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+/* =========total==== */
+.frame2 .total {
+    width: 402px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.frame2 .total p {
+    font-size: 20px;
+    color: #112211;
+}
+
+.frame2 .total span {
+    font-size: 20px;
+    font-weight: 800;
+}
+.economy img {
+  width: 120px;
+  height: 120px;
+  border-radius: 12px;
+}
 
 
 
