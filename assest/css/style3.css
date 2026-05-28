@@ -232,3 +232,33 @@
   margin-top: 40px;
 }
 /* =========================================== */
+.box {
+  border: 1px solid black;
+  width: 1110px;
+  height: 700px;
+  margin: auto;
+  background-color: #E7EBFC;
+}
+.box1 {
+  border: 1px solid black;
+  width: 588px;
+  height: 465px;
+  margin-left: 100px;
+  margin-top: 145px;
+}
+.box2 {
+  border: 1px solid black;
+  width: 572px;
+  height: 52px;
+}
+.box2 h2 {
+  font-size: 42px;
+}
+.box3 {
+  border: 1px solid black;
+  width: 588px;
+  height: 265px;
+}
+.box3 p {
+  font-size: 48px;
+}
