@@ -317,3 +317,87 @@
 .copy4 p {
   font-size: 20px;
 }
+/* ============================== */
+.yes {
+  width: 1440px;
+  height: 660px;
+  margin: auto;
+  background-color: #E7EBFC;
+}
+.yes1 {
+  width: 920px;
+  height: 124px;
+  margin: auto;
+  margin-top: 130px;
+}
+.yes1 h2 {
+  font-size: 52px;
+  text-align: center;
+}
+.yes2 {
+  width: 826px;
+  height: 56px;
+  margin: auto;
+  margin-top: 25px;
+}
+.yes2 p {
+  font-size: 18px;
+  text-align: center;
+}
+.yes .matn4 {
+  margin: auto;
+  margin-top: 50px;
+}
+.yes3 {
+  border: 1px solid #B4B4B4;
+  width: 1110px;
+  height: 2px;
+  margin: auto;
+  margin-top: 40px;
+  background-color: #B4B4B4;
+}
+.yes4 {
+  width: 1255px;
+  height: 76px;
+  margin: auto;
+  margin-top: 75px;
+}
+/* ================================================ */
+.ret {
+  border: 1px solid black;
+  width: 1440px;
+  height: 408px;
+  background-color: #052825;
+  color: white;
+  margin: auto;
+}
+.ret1 {
+  border: 1px solid white;
+  width: 1169px;
+  height: 196px;
+  margin: auto;
+  margin-top: 70px;
+}
+.ret2 {
+  border: 1px solid wheat;
+  width: 423px;
+  height: 196px;
+}
+.ret2 p {
+  font-size: 16px;
+}
+.str {
+  width: 116px;
+  height: 46px;
+  margin-top: 20px;
+  text-align: center;
+}
+.str b {
+  margin-top: 5px;
+}
+.str i {
+  color: white;
+}
+.ret3 {
+   
+}
