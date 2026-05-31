@@ -1,0 +1,146 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  transition: 0.5s;
+  text-decoration: none;
+}
+.katak {
+  width: 33.75px;
+  height: 45px;
+  background-color: #2E4FD7;
+}
+.bosh {
+  width: 1440px;
+  height: 80px;
+  margin: auto;
+  margin-top: 50px;
+}
+.zid img {
+  width: 38.75px;
+  height: 35px;
+}
+.zid {
+  width: 150px;
+  height: 38.75px;
+  display: flex;
+  justify-content: space-between;
+}
+.p {
+  margin-top: 3px;
+}
+.text {
+  width: 1200px;
+  height: 38.75px;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  gap: 40px;
+}
+.plar {
+  width:  388px;
+  height: 26px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+  text-align: center;
+}
+.zid2 {
+  width: 172px;
+  height: 32px;
+  display: flex;
+  margin-left: 410px;
+  margin-top: 3px;
+  background-color: #2E4FD7;
+  color: wheat;
+  
+}
+.q {
+  margin-top: 5px;
+  margin: auto;
+}
+.zid2 i {
+  margin-top: 7.5px;
+  margin: auto;
+}
+/* =============================================== */
+body {
+    background-color: #052825;
+    color: white;
+}
+.text2 {
+  width: 1200px;
+  height: 549px;
+  margin: auto;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+.matn {
+  width: 635px;
+  height: 545px;
+}
+.matn1 {
+  width: 635px;
+  height: 228px;
+}
+.matn1 h1 {
+  font-size: 70px;
+}
+.matn2 {
+  width: 468px;
+  height: 90px;
+  margin-top: 35px;
+}
+.matn2 p {
+  font-size: 23px;
+}
+.matn4 {
+  width:198px;
+  height: 56px;
+  display: flex;
+  background-color: #2E4FD7;
+  color: white;
+}
+.matn4 small {
+
+  margin: auto;
+}
+.matn5 {
+  width: 250px;
+  height: 52px;
+}
+.matn3 {
+  width:468px;
+  height: 56px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 36px;
+}
+.matn4 i {
+  margin-top: 19px;
+  margin-right: 30px;
+}
+.matn5 p {
+  font-size: 20px;
+}
+.matn6 {
+  width: 600.71px;
+  height: 31px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px  ;
+}
+.matn6 img {
+  width: 157.71px;
+  height:40px ;
+}
+.ttt3 {
+  width: 460px;
+  height: 545px;
+}
+.ttt3 img {
+  width: 460px;
+  height: 545px;
+}
