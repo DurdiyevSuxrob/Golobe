@@ -372,14 +372,14 @@
   margin: auto;
 }
 .ret1 {
-  border: 1px solid white;
   width: 1169px;
   height: 196px;
   margin: auto;
   margin-top: 70px;
+  display: flex;
+  justify-content: space-between;
 }
 .ret2 {
-  border: 1px solid wheat;
   width: 423px;
   height: 196px;
 }
@@ -399,5 +399,47 @@
   color: white;
 }
 .ret3 {
-   
+  width:   549px;
+  height: 85px;
+  margin-top: 45px;
 }
+.ret4 {
+  width: 549px;
+  height: 26px;
+  display: flex;
+  justify-content: space-between;
+}
+.ret5 {
+  width: 449px;
+  height: 26px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+.ret .yes3 {
+  width: 1169px;
+  margin-top: -15px;
+}
+.tttt4 {
+  width: 1169px;
+  height: 45px;
+  margin: auto;
+  margin-top: 45px;
+  display: flex;
+  justify-content: space-between;
+}
+.ttttt5 {
+  width: 387px;
+  height: 44px;
+}
+.ttttt5 p {
+  font-size: 14px;
+}
+.ht {
+  width: 281px;
+  height: 22px;
+}
+.ht p {
+  font-size: 14px;
+}
+
