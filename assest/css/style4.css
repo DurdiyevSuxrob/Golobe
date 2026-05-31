@@ -144,3 +144,50 @@ body {
   width: 460px;
   height: 545px;
 }
+/* =================================== */
+.div1 {
+    width: 1200px;
+    height: 500px;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.div2 {
+    width: 540px;
+    height: 378px;
+    margin-top: 100px;
+}
+.div2 h2 {
+    font-size: 42px;
+}
+.div2 p {
+    font-size: 20px;
+}
+.div3 {
+    width: 488px;
+    height: 162px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.ip {
+    width: 203px;
+    height: 162px;
+}
+.ip h2 {
+    font-size: 70px;
+}
+.ip p {
+    font-size: 19px;
+}
+.ip1 {
+    width: 530px;
+    height: 350px;
+    margin-top: 100px;
+}
+
+.ip1 img {
+    width: 530px;
+    height: 350px;
+}
