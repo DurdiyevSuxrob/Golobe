@@ -5,3 +5,77 @@
   transition: 0.5s;
   text-decoration: none;
 }
+.Bosh {
+  border: 1px solid black;
+  width: 390px;
+  height: 6480px;
+  margin: auto;
+}
+.div {
+  border: 1px solid black;
+  width: 390px;
+  height: 609px;
+  background-image: url(../img/image\ copy\ 42.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+.div img {
+  width: 390px;
+  height: 609px;
+  background-image: url(../img/image\ copy\ 42.png);
+}
+.div1 {
+    border: 1px solid red;
+    width: 357px;
+    height: 32px;
+    margin: auto;
+    margin-top: 28px;
+    display: flex;
+    justify-content: space-between;
+}
+.panja {
+    width: 35px;
+    height: 32px;
+}
+.i1 {
+    width: 10px;
+    height: 10px;
+    
+}
+.i2 {
+    width: 10px;
+    height: 10px;
+    margin-left: 15px;
+}
+.panja i {
+    width: 10px;
+    height: 10px;
+}
+.div2 {
+    width: 116px;
+    height: 24px;
+    margin-left: 15px;
+    margin-top: 3px;
+}
+.div2 h2 {
+    font-size: 20px;
+}
+.ip {
+    width: 159px;
+    height: 32px;
+    display: flex;
+    
+}
+.chiziq {
+    width: 40px;
+    height: 30px;
+}
+.chiziq i {
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+}
+/* ============================================ */
+
