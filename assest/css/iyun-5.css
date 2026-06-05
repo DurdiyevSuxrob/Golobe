@@ -215,6 +215,7 @@
   margin-top: 5px;
   margin-left: 15px;
 }
+/* ================================ */
 .box {
   width: 358px;
   height: 358px;
@@ -259,7 +260,19 @@
   margin-top: 100px;
 }
 .box3 {
-    border: 1px solid black;
-    width: ;
-    height: ;
+  border: 1px solid black;
+  width: 359px;
+  height: 450px;
+  margin: auto;
+  margin-top: 15px;
+}
+.u3 {
+  border: 1px solid gray;
+  width: 358px;
+  height: 1px;
+  margin-top: 5px;
+}
+.box3 p {
+    font-size: 15px;
+    color: #667085;
 }
