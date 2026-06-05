@@ -27,7 +27,6 @@
   background-image: url(../img/image\ copy\ 42.png);
 }
 .div1 {
-    border: 1px solid red;
     width: 357px;
     height: 32px;
     margin: auto;
@@ -78,4 +77,52 @@
     margin-top: 5px;
 }
 /* ============================================ */
-
+.div3 {
+    width: 313px;
+    height: 356px;
+    margin: auto;
+    margin-top: 172px;
+}
+.div4 {
+    width: 313px;
+    height: 117px;
+}
+.div4 h2 {
+    font-size: 30px;
+}
+.div5 {
+    width: 313px;
+    height: 119px;
+}
+.div5 p {
+    font-size: 14px;
+}
+.div6 {
+    border: 2px solid white;
+    width: 167px;
+    height: 60px;
+    border-radius: 28px;
+}
+.div7 {
+    width: 120px;
+    height: 30px;
+    margin: auto;
+    margin-top: 13px;
+    display: flex;
+    justify-content: space-between;
+}
+.div7 h2 {
+    font-size: 16px;
+    margin-top: 3px;
+}
+/* ================================== */
+.text {
+    border: 1px solid black;
+    width: 358px;
+    height: 144px;
+}
+.text1 {
+    border: 1px solid black;
+    width: 3px;
+    height: 144px;
+}
