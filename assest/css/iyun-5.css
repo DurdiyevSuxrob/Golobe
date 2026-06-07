@@ -533,6 +533,13 @@
   margin: auto;
   margin-left: 20px;
   margin-top: 40px;
+  border-radius: 8px;
+  background-color: white;
+  color: black;
+  padding: 10px;
+}
+.e2 p {
+  
 }
 
 
