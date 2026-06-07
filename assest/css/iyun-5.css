@@ -8,7 +8,7 @@
 .Bosh {
   border: 1px solid black;
   width: 390px;
-  height: 6480px;
+  height: 6180px;
   margin: auto;
 }
 .div {
@@ -434,7 +434,7 @@
 .let3 {
   border: 1px solid black;
   width: 390px;
-  height: 2967px;
+  height: 2000px;
   background-color: #101828;
   color: antiquewhite;
 }
@@ -497,17 +497,63 @@
 }
 .input1 {
   margin-top: 30px;
-  border: 1px solid black;
   width: 315px;
   height: 50px;
   margin: auto;
   margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
 }
 .input2 {
-  border: 1px solid black;
   width: 145px;
   height: 50px;
   color: black;
+}
+.in {
+  border: 1px solid gray;
+  width: 145px;
+  height: 32px;
+  border-radius: 6px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+
+}
+.yy2 {
+  width: 314px;
+  height: 50px;
+  margin: auto;
+  margin-top: 20px;
+}
+.yy2 input {
+  border: 1px solid gray;
+  width: 314px;
+  height: 32px;
+  border-radius: 6px;
+  padding: 10px;
+}
+.t1 {
+  margin-left: 23px;
+}
+.t2 {
+  margin-left: 23px;
+  border: 1px solid gray;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+  border-radius: 6px;
+}.t3 {
+  width: 293px;
+  height: 16px;
+  margin-left: 23px;
+}
+.t4 {
+  width: 315px;
+  height: 42px;
+  background-color: #101828;
+  color: white;
+  margin-left: 23px;
+  border-radius: 6px;
+  margin-top: 20px;
+  border: 1px solid #101828;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9);
 }
 /* ===============ishlash===================== */
 .q {
@@ -591,6 +637,7 @@
   width: 264px;
   height: 27px;
 }
+
 
 
 
