@@ -635,3 +635,71 @@
   width: 264px;
   height: 27px;
 }
+/* ============================================ */
+
+
+
+  @media (min-width:1440px) {
+    .Bosh {
+      width: 1440px;
+    }
+    .div {
+      width: 1440px;
+    }
+    .div1 {
+      width: 1440px;
+    }
+    .ip {
+      width: 1440px;
+    }
+    .div3 {
+      border: 1px solid black;
+      width: 1440px;
+      margin-left: 150px;
+      margin-top: 60px;
+    }
+    .text {
+      border: 1px solid black;
+      width: 1440px;
+      margin-left: 1px;
+    }
+    .text .oyna  .img{
+      width: 1440px;
+    }
+    .text .u1 {
+      width: 1440px;
+    }
+    .text .oyna {
+      border: 1px solid black;
+      display: flex;
+      justify-content: end;
+    }
+    .u {
+      width: 1440px;
+    }
+    .text3 {
+      border: 1px solid black;
+      margin: auto;
+      width: 492px;
+    }
+    .text4 {
+      display: inline-block;
+      margin-left: 250px;
+    }
+    .main-2 {
+      border: 1px solid black;
+      width: 1201px;
+      height: 768px;
+      margin: auto;
+      margin-top: 20px;
+    }
+    .u2 {
+      width: 1430px;
+    }
+
+    
+  }
+  
+
+
+
