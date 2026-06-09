@@ -516,7 +516,6 @@
   border-radius: 6px;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
   padding: 10px;
-
 }
 .yy2 {
   width: 314px;
@@ -539,7 +538,8 @@
   border: 1px solid gray;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
   border-radius: 6px;
-}.t3 {
+}
+.t3 {
   width: 293px;
   height: 16px;
   margin-left: 23px;
@@ -562,7 +562,6 @@
   background-color: gray;
   margin: auto;
   margin-top: 40px;
-  
 }
 .e {
   margin-top: 30px;
@@ -580,10 +579,9 @@
   margin-left: 20px;
   margin-top: 40px;
   border-radius: 8px;
-  background-color: #DEDEDE;
+  background-color: #dedede;
   color: gray;
   padding: 10px;
-
 }
 .e3 {
   width: 358px;
@@ -625,7 +623,7 @@
 }
 .mmm p {
   font-size: 20px;
-  color: #CECECE;
+  color: #cecece;
 }
 .mmm1 {
   width: 264px;
@@ -637,7 +635,3 @@
   width: 264px;
   height: 27px;
 }
-
-
-
-
