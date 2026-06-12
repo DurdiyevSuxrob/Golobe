@@ -637,67 +637,85 @@
 }
 /* ============================================ */
 
-
-
-  @media (min-width:1440px) {
-    .Bosh {
-      width: 1440px;
-    }
-    .div {
-      width: 1440px;
-    }
-    .div1 {
-      width: 1440px;
-    }
-    .ip {
-      width: 1440px;
-    }
-    .div3 {
-      border: 1px solid black;
-      width: 1440px;
-      margin-left: 150px;
-      margin-top: 60px;
-    }
-    .text {
-      border: 1px solid black;
-      width: 1440px;
-      margin-left: 1px;
-    }
-    .text .oyna  .img{
-      width: 1440px;
-    }
-    .text .u1 {
-      width: 1440px;
-    }
-    .text .oyna {
-      border: 1px solid black;
-      display: flex;
-      justify-content: end;
-    }
-    .u {
-      width: 1440px;
-    }
-    .text3 {
-      border: 1px solid black;
-      margin: auto;
-      width: 492px;
-    }
-    .text4 {
-      display: inline-block;
-      margin-left: 250px;
-    }
-    .main-2 {
-      border: 1px solid black;
-      width: 1201px;
-      height: 768px;
-      margin: auto;
-      margin-top: 20px;
-    }
-    .u2 {
-      width: 1430px;
-    }
+@media (min-width: 1440px) {
+  .Bosh {
+    width: 1440px;
   }
-  
-
-
-
+  .div {
+    width: 1440px;
+  }
+  .div1 {
+    width: 1440px;
+  }
+  .ip {
+    width: 1440px;
+  }
+  .div3 {
+    border: 1px solid black;
+    width: 1440px;
+    margin-left: 150px;
+    margin-top: 60px;
+  }
+  .text {
+    border: 1px solid black;
+    width: 1440px;
+    margin-left: 1px;
+  }
+  .text .oyna .img {
+    width: 1440px;
+  }
+  .text .u1 {
+    width: 1440px;
+  }
+  .text .oyna {
+    border: 1px solid black;
+    display: flex;
+    justify-content: end;
+  }
+  .u {
+    width: 1440px;
+  }
+  .text3 {
+    border: 1px solid black;
+    margin: auto;
+    width: 492px;
+  }
+  .text4 {
+    display: inline-block;
+    margin-left: 250px;
+  }
+  .main-2 {
+    border: 1px solid black;
+    width: 1201px;
+    height: 768px;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .u2 {
+    width: 1430px;
+  }
+  .main-2 .box2 {
+    width: 358px;
+    height: 595px;
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .main-2 .box2 .img {
+    width: 350px;
+    height: 350px;
+  }
+  .text8 {
+    margin-top: 155px;
+  }
+  .box3 {
+    width: 1201px;
+    height: 768px;
+  }
+  .box3 h2  p {
+    font-size: 100px;
+    color: gray;
+  }
+}
